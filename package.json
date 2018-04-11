@@ -8,8 +8,6 @@
   },
   "repository": "laggingreflex/seeded-selfsigned",
   "dependencies": {
-    "deterministic-pseudorandombytes": "^0.1.0",
-    "monkeypatch": "^1.0.0",
     "node-forge": "^0.7.5",
     "selfsigned": "^1.10.2"
   }
