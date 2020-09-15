@@ -8,7 +8,7 @@
   },
   "repository": "laggingreflex/seeded-selfsigned",
   "dependencies": {
-    "node-forge": "^0.7.5",
+    "node-forge": "^0.10.0",
     "selfsigned": "^1.10.2"
   }
 }
