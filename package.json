@@ -1,6 +1,6 @@
 {
   "name": "seeded-selfsigned",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Generate deterministic self-signed certificates with a seed from node.js",
   "main": "index.js",
   "scripts": {
